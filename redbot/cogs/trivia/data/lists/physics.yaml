@@ -1,0 +1,251 @@
+AUTHOR: ["SaberTail#8449"]
+# Physicists
+"The SI unit for frequency is named after what German physicist?":
+- "Heinrich Rudolph Hertz"
+- "Hertz"
+- "Heinrich Hertz"
+"What Polish-born woman won the Nobel prize twice for her study of radiation?":
+- "Marie Skłodowska Curie"
+- "Marie Curie"
+- "Madame Curie"
+- "Curie"
+"What Nobel prize -winning physicist wrote an essay entitled *Why Socialism*?":
+- "Albert Einstein"
+- "Einstein"
+"What astronomer documented his experience with cannabis under the pseudonym 'Mr. X'?":
+- "Carl Sagan"
+- "Sagan"
+# Mechanics
+"What shape do the orbits of astronomical bodies like planets and comets take?":
+- "Elliptical"
+- "Ellipse"
+"The period of a pendulum depends only on gravity and its ___?":
+- "Length"
+"A system is said to be ___ if arbitrarily small changes in initial conditions can lead to widely divergent outcomes?":
+- "Chaotic"
+"What 'fictitious' force in a rotating system appears to bend objects moving in a straight line to the side?":
+- "Coriolis"
+- "Coriolis force"
+"What 'fictitious' force in a rotating system feels like it is pushing everything outward, away from the axis of rotation?":
+- "Centrifugal"
+- "Centrifugal force"
+"A mechanical system with a restorting force proportional to the displacement from eqilibrium displays what kind of motion?"
+- "Simple harmonic"
+- "Simple harmonic motion"
+- "Simple harmonic oscillation"
+"In Newtonian physics, what force attracts massive objects to each other?":
+- "Gravity"
+- "Gravitation"
+"The trajectory of a thrown object in a constant gravitational field with no air resistance will be what conic section?":
+- "Parabola"
+- "Parabolic"
+- "Parabolic arc"
+"According to Noether's theorem, a system that is symmetric with respect to rotation must conserve ___ ___?":
+- "Angular momentum"
+"According to Noether's theorem, a system that is symmetric with respect to time must conserve ___?":
+- "Energy"
+# Electromagnetism
+"What device, often used in demonstrations that make your hair stand on end, uses a belt to build electrical charge on a metal globe?":
+- "Van de Graaff generator"
+"What type of semiconductor device only allows electrical current to flow one way?":
+- "Diode"
+"In an electrical circuit, what component stores energy in the magnetic field and opposes changing currents?":
+- "Inductor"
+"In an electrical circuit, what component stores energy in the electric field and opposes changing potentials?":
+- "Capacitor"
+"Electrical resistance is measured in units named after which German physicist?":
+- "Georg Ohm"
+- "Ohm"
+"Electric potential is measured in units named after which Italian physicist?":
+- "Alessandro Volta"
+- "Volta"
+"Electric current is measured in units named after which French physicist?":
+- "André-Marie Ampère"
+- "Andre-Marie Ampere"
+- "Ampère"
+- "Ampere"
+"In the SI system, magnetic fields are measured in units named after which Serbian-American inventor?":
+- "Nikola Tesla"
+- "Tesla"
+"What phenomenon describes light bending when it passes from one medium to another?":
+- "Refraction"
+"In a constant magnetic field, a charged particle moving perpendicular to the field will follow what trajectory?":
+- "Circle"
+- "Circular"
+"What are quanta of light called?"
+- "Photons"
+= "Photon"
+"A cathode ray tube illuminates a phosphorescent screen with a beam of ___?":
+- "Electrons"
+- "Electron"
+"According to Faraday's law, a changing magnetic field creates what type of field?":
+- "Electric"
+- "Electric field"
+"According to Maxwell's equations, a changing electric field creates what type of field?":
+- "Magnetic"
+- "Magnetic field"
+# Nuclear
+"Atomic nuclei are made of neutrons and ___?":
+- "Protons"
+- "Proton"
+"Atomic nuclei are made of protons and ___?":
+- "Neutrons"
+- "Neutron"
+"Atoms consist of a dense nucleus surrounded by a cloud of what elementary particle?"
+- "Electrons"
+- "Electron"
+"The first self-sustaining nuclear chain reaction was built under the football stands at which university?":
+- "University of Chicago"
+- "Chicago"
+"What type of radiation is made up of Helium nuclei?":
+- "Alpha"
+- "α"
+"What type of radiation is made up of high-energy electrons?":
+- "Beta"
+- "β"
+"What type of radiation is made up of photons with higher energies than X-rays?":
+- "Gamma"
+- "γ"
+"Electrons can be decelerated rapidly, in a process called 'bremsstrahlung', to produce what type of radiation?":
+- "X-rays"
+- "X-ray"
+- "X rays"
+- "X ray"
+"In heavy water, each hydrogen atom has one extra ___?":
+- "Neutron"
+"Bananas are slightly radioactive because they are high in what element?":
+- "Potassium"
+"What is the heaviest element naturally found on earth?":
+- "Uranium"
+# Particle
+"A particle made of a quark and an antiquark is a ___?":
+- "Meson"
+"A particle made of three quarks is a ___?":
+- "Baryon" 
+"What heavier cousin of the electron has a mean lifetime of 2.2 µs?":
+- "Muon"
+- "Mu"
+- "µ"
+"How many independent types of gluon are there?":
+- "8"
+- "Eight"
+"The electroweak force is carried by the W and ___ bosons?":
+- "Z"
+- "Z0"
+- "Z bosons"
+- "Z0 bosons"
+- "Z boson"
+- "Z0 boson"
+"Neutrino and dark matter experiments are often located deep underground so the earth will shield them from ___ ___?":
+- "Cosmic Rays"
+- "Cosmic Ray"
+"What type of circular particle accelerator uses separate acceleration and magnetic bending sections, and is often used as a source of high-intensity X-rays?":
+- "Synchrotron"
+- "Synchrotrons"
+"After the 'up' and 'down' quarks, what was the next flavor to be discovered?":
+- "strange"
+- "s"
+"What is the antimatter equivalent of an electron called?":
+- "Positron"
+"Which fundamental force holds atomic nuclei together?":
+- "Strong"
+- "Strong force"
+- "Strong nuclear force"
+- "Strong interaction"
+"Which fundamental force is responsible for beta decays?":
+- "Weak"
+- "Weak force"
+- "Electroweak"
+- "Weak nuclear force"
+- "Weak interaction"
+"A substance that emits light in response to ionizing radiation is known as a ___?":
+- "Scintillator"
+"What simple radiation detector shows the trajectories of charged particles by having vapor condense in their wake?":
+- "Cloud chamber"
+- "Cloud chambers"
+"Although the Large Hadron Collider can collide lead ions, it primarily collides what particles?":
+- "Protons"
+- "Proton"
+# Astrophysics
+"Stars produce most of their energy by fusing hydrogen into ___?":
+- "Helium"
+"What radiation fills the universe, left over from the last instant before the universe became transparent to photons?":
+- "Cosmic Microwave Background"
+- "CMB"
+"What type of stellar remnant is as dense as an atomic nucleus?":
+- "Neutron star"
+"What substance, invisible aside from its gravitational effects, makes up most of the mass of the universe?":
+- "Dark matter"
+"What gravitational wave observatory consists of two separate interferometers in Washington and Louisiana?":
+- "LIGO"
+- "L.I.G.O."
+- "Laser Interferometer Gravitational-Wave Observatory"
+"The Ice Cube observatory in Antarctica uses the ice itself to detect what elementary particles?":
+- "Neutrino"
+- "Neutrinos"
+"What is the term for what remains after a large star dies, so massive that light cannot escape?":
+- "Black Hole"
+"If you fall beneath the ___ ___ of a black hole, you can never escape?":
+- "Event Horizon"
+"'Black holes have no hair' means that black holes with the same electric charge, angular momentum, and ___ are indistinguishable?":
+- "Mass"
+"What effect can produce Einstein rings around distant massive objects?":
+- "Gravitational lensing"
+"The Fermi Space Telescope, launched in 2008, studies what type of radiation?":
+- "Gamma rays"
+- "Gamma ray"
+- "Gamma radiation"
+- "Gamma"
+"What model describes how the universe expanded rapidly from a hot, dense state?":
+- "Big Bang"
+- "Big Bang Theory"
+- "Big Bang Model"
+"Atoms of what element in the upper atmosphere re-emit light from a laser, providing a target for a telescope that allows it to adapt its optics to reduce atmospheric distortion?":
+- "Sodium"
+# Fluid Mechanics
+"What term describes smooth fluid flow without turbulence?":
+- "Laminar flow"
+- "Laminar"
+# Statistical Mechanics and Theromodynamics
+"Fire is an example of what state of matter?":
+- "Plasma"
+"What two-word term describes the coldest possible temperature?":
+- "Absolute zero"
+- "Absolute 0"
+- "Zero Kelvin"
+- "0 Kelvin"
+"According to the laws of thermodynamics, what quantity can only increase in a closed system?":
+- "Entropy"
+"A volume that's empty of all matter is known as a ___?":
+- "Vacuum"
+"In a fixed volume container with a fixed quantity of gas, increasing the temperature of the gas will also increase the ___?":
+- "Pressure"
+# Quantum Mechanics
+"What interpretation of quantum mechanics says that the wavefunction of a quantum system collapses into a single state upon being observed?":
+- "Copenhagen"
+"What type of animal is simultaneously alive and dead in a famous thought experiment proposed to demonstrate the weirdness of quantum mechanics?":
+- "Cat"
+"How many electrons can fit in the p orbital of an atom?":
+- "6"
+- "Six"
+"How many electrons can fit in the s orbital of an atom?":
+- "2"
+- "Two"
+"Light above a minimum frequency can cause a material to emit electrons due to what effect?":
+- "Photoelectric"
+- "Photoelectric effect"
+"In a quantum-mechanical system, the lowest energy state is calle the ___ state?":
+- "Ground"
+- "Ground state"
+"The uncertainty principal says the more precisely you know a particle's position, the less precisely you can know its ___?":
+- "Momentum"
+# Other
+"What effect, due to carbon dioxide and other gases in the atmosphere, warms a planet by preventing it from radiating heat to space?":
+- "Greenhouse effect"
+- "Greenhouse"
+"What layer of the atmosphere can be used for bouncing high frequency radio waves, allowing them to travel beyond the horizon?":
+- "Ionosphere"
+"What technology uses reflecting radio waves to determine the range, angle, or velocity of objects?":
+- "RADAR"
+"What device uses stimulated emission to create a narrow beam of coherent, monochromatic light?":
+- "LASER"
